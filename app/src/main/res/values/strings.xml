@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">messenger</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="user_list">User List</string>
+    <string name="requests">Requests</string>
+    <string name="chat">Chats</string>
+    <string name="sign_out">Sign out</string>
+</resources>
